@@ -4,8 +4,7 @@
 ✍ Reflection
 Q. What does AI-Driven Development mean to you?
 
-Ans. To me AI-Driven Development means that AI becomes a real partner in the coding process. Instead of spending time writing every line of code or remembering every syntax rule, 
-I focus on explaining what i want to build. The AI then generates the code based on my requirements, and my job is to review, refine and guide it. Almost like a director working with a co-creator.
+Ans. To me AI-Driven Development means that AI becomes a real partner in the coding process. Instead of spending time writing every line of code or remembering every syntax rule,I focus on explaining what i want to build. The AI then generates the code based on my requirements, and my job is to review, refine and guide it. Almost like a director working with a co-creator.
 Because of this shift the development process becomes much faster and smoother compared to the traditional way of coding everything manually. In this new era, clear specifications are basically the "new syntax" and the better we communicate our ideas the better the results we get.
 
 
