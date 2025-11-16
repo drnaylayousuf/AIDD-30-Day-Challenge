@@ -1,0 +1,18 @@
+# AIDD 30-Day Challenge
+**TASK 1**
+
+✍ Reflection
+Q. What does AI-Driven Development mean to you?
+
+Ans. To me AI-Driven Development means that AI becomes a real partner in the coding process. Instead of spending time writing every line of code or remembering every syntax rule,
+I focus on explaining what i want to build. The AI then generates the code based on my requirements, and my job is to review, refine and guide it. Almost like a director working with a co-creator.
+Because of this shift the development process becomes much faster and smoother compared to the traditional way of coding everything manually. In this new era, clear specifications are basically 
+the "new syntax" and the better we communicate our ideas the better the results we get.
+
+
+Q. How do you see the future of Human–AI Collaboration in software development?
+
+Ans. I believe the future of software development will be shaped by a strong partnership between human and AI. Instead of replacing developers, AI will help them work faster, easier and 
+more efficiently.Developers will explain their ideas and requirement and AI will suggest possible solutions or improvements. Then human will review the AI output , make decisions and guide
+it with feedback.Over time, both sides learn from each other AI adapts to human preferences, and humans gain new insights from AI-generated suggestions.This kind of teamwork will make 
+software development more powerful, creative, and productive.
